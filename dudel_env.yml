@@ -1,0 +1,28 @@
+name: dudel_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - joblib
+  - tqdm
+  - colorama
+  - regex
+  - bedtools
+  - r-base=4.3
+  - r-ggplot2
+  - r-dplyr
+  - bioconductor-edger
+  - bioconductor-genomicranges
+  - bioconductor-rsamtools
+  - r-data.table
+  - r-tidyr
+  - pip
+  - pip:
+      - pathlib
+
