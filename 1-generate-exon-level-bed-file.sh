@@ -3,7 +3,7 @@ GFFFile=$1
 GenesList=$2
 out=$3
 
-echo "chrom	start	end	gene" > $out".bed"
+printf 'chrom\tstart\tend\tgene\n' > $out".bed"
 for Gene in $(cat $GenesList | uniq); do
 echo "Processing: $Gene"
 #Extract exon coordinates for the gene from the GFF file
