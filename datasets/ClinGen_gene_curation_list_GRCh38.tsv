@@ -1,0 +1,1606 @@
+Gene	Haploinsufficiency_Score	Triplosensitivity_Score	Haploinsufficiency_Description	Triplosensitivity_Description	Haploinsufficiency_DiseaseID	Triplosensitivity_DiseaseID
+TPSAB1	0	3	No evidence available	Sufficient evidence for dosage pathogenicity	NA	MONDO:0850201
+FGF12	0	1	No evidence available	Little evidence for dosage pathogenicity	NA	MONDO:0100062
+PTHLH	3	1	Sufficient evidence for dosage pathogenicity	Little evidence for dosage pathogenicity	MONDO:0013244	MONDO:0023599
+PLP1	3	3	Sufficient evidence for dosage pathogenicity	Sufficient evidence for dosage pathogenicity	MONDO:0010714	MONDO:0010714
+HUWE1	0	0	No evidence available	No evidence available	MONDO:0010407	MONDO:0010407
+MECP2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010726	MONDO:0010283
+SOX3	0	2	No evidence available	Some evidence for dosage pathogenicity	NA	MONDO:0010252
+FBXW4	0	0	No evidence available	No evidence available	NA	MONDO:0009525
+LBX1	0	0	No evidence available	No evidence available	NA	MONDO:0009525
+POLL	0	0	No evidence available	No evidence available	NA	MONDO:0009525
+ANKRD26	0	0	No evidence available	No evidence available	MONDO:0008555	MONDO:0008555
+LMNB1	0	3	No evidence available	Sufficient evidence for dosage pathogenicity	NA	MONDO:0008215
+PTPN11	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007979	MONDO:0008104
+PMP22	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008087	MONDO:0007309
+FOSL2	0	0	No evidence available	No evidence available	MONDO:0968978	NA
+SRSF1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0957583	NA
+PRR12	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0859193	NA
+PRKAG2	0	0	No evidence available	No evidence available	MONDO:0800484	NA
+SYNCRIP	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0800456	NA
+LIPA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0800449	NA
+FLCN	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0800444	NA
+NKX2-5	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0800441	NA
+EIF2B1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0800439	NA
+EIF2B3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0800439	NA
+NFIB	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0800439	NA
+ZMYND11	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0800439	NA
+NGLY1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0800044	NA
+PALB2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0700272	NA
+BRCA2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0700269	NA
+BRCA1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0700268	NA
+SAMHD1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0700260	NA
+JARID2	2	0	Some evidence for dosage pathogenicity	No evidence available	MONDO:0700092	NA
+LEO1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0700092	NA
+POMT1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0700070	NA
+SLC1A2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100620	NA
+ACTC1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100547	NA
+KMT2B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100516	NA
+UROD	2	0	Some evidence for dosage pathogenicity	No evidence available	MONDO:0100498	NA
+KCNH1	0	0	No evidence available	No evidence available	MONDO:0100485	NA
+GNB1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100465	NA
+RPE65	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100368	NA
+SLC12A1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100344	NA
+FXN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100340	NA
+SDHAF1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100294	NA
+BRWD3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100284	NA
+TSPAN7	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100284	NA
+ESCO2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0100253	NA
+GALNT3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100252	NA
+LAMA2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100228	NA
+NDUFAF1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100224	NA
+NDUFAF5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100224	NA
+NDUFB3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0100224	NA
+NDUFS4	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0100224	NA
+NDUFS6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100224	NA
+NDUFV1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100224	NA
+NDUFV2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100224	NA
+DICER1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100216	NA
+AMN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100156	NA
+CUBN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100156	NA
+DKC1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100152	NA
+CTNS	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100151	NA
+ARHGEF9	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100148	NA
+IQSEC2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100148	NA
+NLGN4X	2	0	Some evidence for dosage pathogenicity	No evidence available	MONDO:0100148	NA
+SYN1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100148	NA
+SATB2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100147	NA
+NAA10	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100124	NA
+RUNX1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100083	NA
+SCN1A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100079	NA
+ACTL6B	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0100062	NA
+ALG13	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100062	NA
+DNM1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0100062	NA
+GNAO1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100062	NA
+KCNA2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100062	NA
+FOXG1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100040	NA
+ANK2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+ASH1L	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+ASTN2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+CAPRIN1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+CDC42BPB	2	0	Some evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+CHAMP1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+CHD5	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+CHD8	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+CIC	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+CLTC	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+CNOT1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+CNTN4	0	0	No evidence available	No evidence available	MONDO:0100038	NA
+CSMD1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+CTNNA3	0	0	No evidence available	No evidence available	MONDO:0100038	NA
+CTNND2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+DIP2A	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+DLG2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+DLG4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+EEF1A2	0	0	No evidence available	No evidence available	MONDO:0100038	NA
+ELAVL2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+ERBB4	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+GABRA1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+GIGYF2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+GNAI1	0	0	No evidence available	No evidence available	MONDO:0100038	NA
+GPHN	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+GRIN2A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+HIVEP3	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+HNRNPC	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+HNRNPU	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+ITSN1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+KATNAL2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+KCNC1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+KMT5B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+MBD5	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+MYH10	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+NBEA	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+NCKAP1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+NEDD9	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+NR4A2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+NRXN1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+NUS1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+PAX5	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+PHF12	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+PHF21A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+POU3F3	0	Not yet evaluated	No evidence available	Not yet evaluated	MONDO:0100038	NA
+PURA	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+RALGAPB	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+RELN	0	0	No evidence available	No evidence available	MONDO:0100038	NA
+RORB	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+RPL10	0	0	No evidence available	No evidence available	MONDO:0100038	NA
+SCN2A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SETD1B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SETD2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SHANK1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SHANK2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SLC4A10	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SLC6A1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SMC3	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SPEN	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SRRM2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SRSF11	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+STAG1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+SYNGAP1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+TBR1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+TCF20	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+TCF7L2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+TNRC6B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+TRRAP	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+WDFY3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+YTHDC1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+YTHDF3	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+ZFHX4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+ZNF292	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0100038	NA
+PRRT2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0100024	NA
+SLC6A3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0054835	NA
+GRIP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0054737	NA
+WDR26	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0054636	NA
+SALL1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0054581	NA
+PEX3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0054549	NA
+COX20	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0044970	NA
+COX6B1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0044970	NA
+H1-4	0	0	No evidence available	No evidence available	MONDO:0044323	NA
+MSH3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0044300	NA
+PREPL	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0044299	NA
+CEBPE	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0044207	NA
+CDH23	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0037940	NA
+PHIP	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0035133	NA
+ARID2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0033492	NA
+DLL1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0032877	NA
+ZNF462	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0032836	NA
+CNOT2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0032832	NA
+TRHR	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0032819	NA
+KMT2E	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0032793	NA
+TMEM94	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0032672	NA
+CACNA1E	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0032657	NA
+TMCO1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0031329	NA
+CAMK2B	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0030920	NA
+CAMK2A	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0030919	NA
+TRIP12	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0030914	NA
+CNKSR2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0030909	NA
+MSL3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0026730	NA
+XIST	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0026404	NA
+CTC1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0024564	NA
+MLC1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0024555	NA
+D2HGDH	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0024554	NA
+SH2D1A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0024551	NA
+PDX1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0024547	NA
+HPGD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0024546	NA
+VLDLR	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0024542	NA
+TTC37	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0024541	NA
+SLC52A3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0024537	NA
+MC2R	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0024536	NA
+BMPR2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0024533	NA
+PAX6	3	1	Sufficient evidence for dosage pathogenicity	Little evidence for dosage pathogenicity	MONDO:0024507	NA
+APC	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0021057	NA
+MPLKIP	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0021013	NA
+MYSM1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0020856	NA
+HMGA2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0020795	NA
+ROBO3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0020790	NA
+OCLN	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0020789	NA
+RASA1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0020783	NA
+CEP78	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0020778	NA
+TYROBP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0020749	NA
+CYP24A1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0020739	NA
+CLMP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0020718	NA
+SRY	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0020712	NA
+B4GALT7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0020682	NA
+EBP	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0020603	NA
+GPC3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0020602	NA
+PHOX2B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0020493	NA
+ITPR1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0020380	NA
+TSEN54	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0020135	NA
+KDM5C	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0020119	NA
+NONO	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0020119	NA
+PAK3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0020119	NA
+STAG2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0020119	NA
+USP9X	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0020119	NA
+KCTD7	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0020074	NA
+WNT7A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0019713	NA
+ACTA2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0019625	NA
+MYH11	0	0	No evidence available	No evidence available	MONDO:0019625	NA
+SLC17A8	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0019587	NA
+ERCC8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0019569	NA
+COL5A1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0019567	NA
+MSRB3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0019497	NA
+POU3F4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0019497	NA
+SLC17A5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0019366	NA
+NSD1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0019349	NA
+PEX1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0019234	NA
+PEX16	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0019234	NA
+PEX26	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0019234	NA
+PITX2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0019187	NA
+CLCN4	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0019181	NA
+DLG3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0019181	NA
+FTSJ1	2	0	Some evidence for dosage pathogenicity	No evidence available	MONDO:0019181	NA
+ZNF41	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0019181	NA
+PDHA1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0019169	NA
+AR	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0019154	NA
+REEP6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0019118	NA
+NF1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0018975	NA
+DYNC1H1	0	0	No evidence available	No evidence available	MONDO:0018894	NA
+TP53	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0018875	NA
+CEBPA	0	0	No evidence available	No evidence available	MONDO:0018874	NA
+WAC	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0018760	NA
+HNRNPK	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0018681	NA
+PAX8	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0018612	NA
+ABCD1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0018544	NA
+ELANE	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0018542	NA
+CTNNA1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0018502	NA
+PLA2G6	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0018307	NA
+CRPPA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0018276	NA
+LARGE1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0018276	NA
+POMT2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0018276	NA
+ST3GAL5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0018274	NA
+ATP6V0A2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0018163	NA
+PSAT1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0018162	NA
+GBA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0018150	NA
+GLB1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0018149	NA
+CALM2	0	0	No evidence available	No evidence available	MONDO:0017990	NA
+CASQ2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0017990	NA
+RYR2	0	0	No evidence available	No evidence available	MONDO:0017990	NA
+TRDN	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0017990	NA
+FAS	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0017979	NA
+PTEN	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0017623	NA
+LAMA3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0017612	NA
+LAMC2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0017612	NA
+RFX6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0017400	NA
+BMPR1A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0017380	NA
+MAX	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0017366	NA
+SDHAF2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0017366	NA
+SDHB	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0017366	NA
+SDHC	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0017366	NA
+SDHD	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0017366	NA
+TMEM127	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0017366	NA
+COL3A1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0017314	NA
+JAG1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0016862	NA
+MEG3	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0016779	NA
+DYM	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0016761	NA
+ASPM	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0016660	NA
+DSG2	2	0	Some evidence for dosage pathogenicity	No evidence available	MONDO:0016587	NA
+PKP2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0016587	NA
+ADGRV1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0016484	NA
+BARD1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0016419	NA
+CHEK2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0016419	NA
+DSC2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0016342	NA
+ZIC2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0016296	NA
+RAD51D	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0016248	NA
+FOXP2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0016226	NA
+TP63	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0016044	NA
+RAD21	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0016033	NA
+PLOD1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0016002	NA
+HNF4A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0015967	NA
+FLG	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0015947	NA
+MYH9	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0015912	NA
+YARS1	0	0	No evidence available	No evidence available	MONDO:0015626	NA
+CC2D2A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0015369	NA
+CEP290	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0015369	NA
+NPHP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0015369	NA
+TMEM231	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0015369	NA
+TMEM67	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0015369	NA
+DPAGT1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0015286	NA
+BCHE	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0015270	NA
+SCN5A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0015263	NA
+MKKS	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0015229	NA
+RAB3GAP2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0015159	NA
+HNRNPDL	0	0	No evidence available	No evidence available	MONDO:0015151	NA
+PAFAH1B1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0015146	NA
+BRPF1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0015022	NA
+EBF3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0015021	NA
+MAPKBP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014997	NA
+ARCN1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014948	NA
+CHD4	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0014946	NA
+SON	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014936	NA
+B9D1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014927	NA
+BCL11A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014914	NA
+TRIO	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014892	NA
+DNAJC21	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0014887	NA
+HIVEP2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014858	NA
+SLC34A1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014851	NA
+TBL1XR1	3	1	Sufficient evidence for dosage pathogenicity	Little evidence for dosage pathogenicity	MONDO:0014842	NA
+NEFH	0	0	No evidence available	No evidence available	MONDO:0014836	NA
+DDX41	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014809	NA
+TRIP4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014806	NA
+USP7	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014805	NA
+SOX5	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014778	NA
+MYT1L	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014678	NA
+ATF6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014677	NA
+UBE2T	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014638	NA
+NTHL1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014630	NA
+GTF2H5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014619	NA
+POGZ	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014606	NA
+PPP2R5D	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0014602	NA
+DPP6	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0014580	NA
+KAT6A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014558	NA
+ALG2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014543	NA
+ETV6	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014536	NA
+CDK6	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014484	NA
+SETBP1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014482	NA
+NOTCH1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014459	NA
+PIGW	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014457	NA
+IFT27	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014447	NA
+SDCCAG8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014444	NA
+BBS12	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014440	NA
+TTC8	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014436	NA
+BBS7	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014435	NA
+BBS5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014434	NA
+EPS8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014428	NA
+LAMA1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014419	NA
+SPEG	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014418	NA
+GPIHBP1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014412	NA
+METTL23	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014409	NA
+SLC13A5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014392	NA
+AARS2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014387	NA
+DNMT3A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014382	NA
+TJP2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014381	NA
+ADNP	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014379	NA
+SOX11	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014376	NA
+TTLL5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014372	NA
+DOCK7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014371	NA
+VPS53	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014370	NA
+POT1	2	0	Some evidence for dosage pathogenicity	No evidence available	MONDO:0014368	NA
+ZMYND15	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014366	NA
+LYRM7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014364	NA
+AUTS2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014361	NA
+AHDC1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014358	NA
+PGM3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014353	NA
+CRIPT	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014347	NA
+XYLT1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014343	NA
+STUB1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014339	NA
+SETD5	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014336	NA
+CA5A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014332	NA
+HFM1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014322	NA
+NR2F1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014320	NA
+PGAP3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014318	NA
+ERCC6L2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014317	NA
+ARL6IP1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014304	NA
+TBC1D20	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014296	NA
+CSPP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014288	NA
+CDIN1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014285	NA
+CD3D	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014280	NA
+CD3E	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014278	NA
+CD3G	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014276	NA
+TAF2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014273	NA
+SERPINB7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014272	NA
+STT3A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014270	NA
+PAX1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014254	NA
+APOB	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014252	NA
+SYNE4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014237	NA
+DSE	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014236	NA
+DNAJC6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014231	NA
+GMPPA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014219	NA
+DYNC2I1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014214	NA
+TRIM2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014208	NA
+ASXL3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014205	NA
+RSPH1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014202	NA
+MALT1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014197	NA
+ADAMTS18	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014195	NA
+LRPAP1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014183	NA
+PHC1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014173	NA
+CORO1A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014168	NA
+CNTN2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014167	NA
+ANKS6	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014158	NA
+PLEKHG5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014154	NA
+RAB28	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014153	NA
+CHD2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014150	NA
+TCF12	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014128	NA
+ATP8A2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014104	NA
+CIDEC	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014098	NA
+RBP3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014093	NA
+ZNF141	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014090	NA
+MPDZ	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014085	NA
+IL21R	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014082	NA
+SLC25A1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014072	NA
+B3GALNT2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014071	NA
+TTC19	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014063	NA
+CD27	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014054	NA
+AGRN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014052	NA
+COX15	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014051	NA
+ALDH1A3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014050	NA
+SNX10	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014040	NA
+CTNNB1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014035	NA
+GATAD2B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0014034	NA
+TECPR2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014016	NA
+EXPH5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014014	NA
+CERS3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0014010	NA
+DGKE	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0014005	NA
+TAB2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0014000	NA
+LEPR	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013992	NA
+CHMP1A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013990	NA
+MTFMT	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013987	NA
+OTOGL	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013984	NA
+LRRC6	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013979	NA
+EARS2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013971	NA
+BCKDK	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013970	NA
+RMND1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013969	NA
+PGM1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013968	NA
+PEX11B	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013967	NA
+CABP2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013963	NA
+VPS37A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013962	NA
+PEX14	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013952	NA
+PEX7	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013945	NA
+TSPEAR	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013929	NA
+CEP164	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013917	NA
+KISS1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013915	NA
+GNRH1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013914	NA
+RTTN	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013907	NA
+GRM1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013905	NA
+FAN1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013898	NA
+NBAS	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013889	NA
+CFAP53	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013887	NA
+CAMTA1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013886	NA
+NFIX	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013885	NA
+PIGO	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013882	NA
+ITGA3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013881	NA
+SERAC1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013875	NA
+MTO1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013865	NA
+LRBA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013863	NA
+CCDC103	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013854	NA
+EXOSC3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013853	NA
+GATAD1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013848	NA
+PDSS2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013838	NA
+UVSSA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013834	NA
+GLRB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013828	NA
+CPLANE1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013824	NA
+ARID1A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013819	NA
+GPR179	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013807	NA
+ATR	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0013806	NA
+FKBP14	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013800	NA
+DDOST	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013789	NA
+C8orf37	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013786	NA
+CRADD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013785	NA
+BRAT1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013784	NA
+GPD1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013771	NA
+TPK1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013761	NA
+TMEM237	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013745	NA
+GBA2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013737	NA
+CSF2RB	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013712	NA
+LINS1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013702	NA
+BAP1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013692	NA
+WWOX	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013687	NA
+C19orf12	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013674	NA
+KHDC3L	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013671	NA
+RAD51B	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0013669	NA
+SYT14	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013645	NA
+CCDC8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013627	NA
+GP6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013623	NA
+TCTN1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013608	NA
+COL9A1	0	0	No evidence available	No evidence available	MONDO:0013591	NA
+MYO1E	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013589	NA
+CLPP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013588	NA
+DYRK1A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013578	NA
+IFT43	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013573	NA
+WDR35	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013569	NA
+FANCG	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013565	NA
+PIGN	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013563	NA
+BPNT2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013561	NA
+HPS3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013555	NA
+ZBTB24	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013553	NA
+AP4S1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013552	NA
+AP4B1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013551	NA
+NAT8L	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013549	NA
+GATA2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013540	NA
+CLDN14	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013537	NA
+PSPH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013531	NA
+NDE1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013527	NA
+WRAP53	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013520	NA
+NHP2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013519	NA
+SERPINF1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013515	NA
+GRIN2B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013509	NA
+NCF4	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013507	NA
+IL17RA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013500	NA
+KARS1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013489	NA
+CFD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013487	NA
+TCTN2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013482	NA
+SLC24A1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013450	NA
+RPGRIP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013446	NA
+TTC21B	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013442	NA
+SEPSECS	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013438	NA
+CCDC40	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013435	NA
+CCDC39	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013434	NA
+CDT1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013431	NA
+ORC6	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013430	NA
+ORC4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013428	NA
+SMAD3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013426	NA
+MASP2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013423	NA
+MYLK	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0013418	NA
+CNGB1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013413	NA
+FADD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013408	NA
+AHCY	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013404	NA
+NFIA	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013396	NA
+JAM3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013394	NA
+PLCB1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013389	NA
+POLR1D	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013385	NA
+EP300	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013364	NA
+SOBP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013353	NA
+FOXP1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013352	NA
+CDHR1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013348	NA
+C1QB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013343	NA
+MCFD2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013331	NA
+CBL	0	0	No evidence available	No evidence available	MONDO:0013308	NA
+BLNK	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013289	NA
+IGLL1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013287	NA
+CD19	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013283	NA
+SERPINA1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013282	NA
+COG4	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013281	NA
+SERPINB6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013269	NA
+MEF2C	3	1	Sufficient evidence for dosage pathogenicity	Little evidence for dosage pathogenicity	MONDO:0013266	NA
+PCARE	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013263	NA
+SIN3A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013256	NA
+RAD51C	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013253	NA
+PTPRQ	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013249	NA
+ITCH	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013245	NA
+LRAT	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013231	NA
+NKX3-2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013228	NA
+SERPINE1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013227	NA
+SMARCA4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013224	NA
+ENPP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013219	NA
+RPS26	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013217	NA
+TPRN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013215	NA
+GRXCR1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013210	NA
+SLC30A10	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013208	NA
+SOX10	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013202	NA
+F13B	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013190	NA
+CA8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013188	NA
+F13A1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013187	NA
+TRPM1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013183	NA
+WDR72	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013181	NA
+ADAMTS17	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013176	NA
+DNAAF1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013174	NA
+TRAPPC9	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013173	NA
+PNP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013171	NA
+ABAT	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013166	NA
+UPB1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013164	NA
+XPNPEP3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013163	NA
+IL10RA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013153	NA
+RETREG1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013142	NA
+DSC3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013136	NA
+PKD2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013131	NA
+PDE6C	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013129	NA
+DYNC2H1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013127	NA
+LOXHD1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013119	NA
+GFER	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013116	NA
+RIN2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013115	NA
+TRMU	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013111	NA
+FOLR1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013110	NA
+PHKG2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013091	NA
+NR5A1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0013066	NA
+PYCR1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013051	NA
+DPM3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013049	NA
+ENO3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013046	NA
+OBSL1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0013039	NA
+ALAD	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0013000	NA
+GAMT	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012999	NA
+STIL	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012989	NA
+EPB42	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012985	NA
+ABHD12	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012984	NA
+RSPH4A	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012978	NA
+CDH15	0	0	No evidence available	No evidence available	MONDO:0012946	NA
+G6PC3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012930	NA
+CNTN1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012929	NA
+RPS17	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012924	NA
+GNAS	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012912	NA
+DNAI2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012906	NA
+PLOD3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012892	NA
+TSEN2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012890	NA
+ZBTB18	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012869	NA
+FA2H	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012866	NA
+CD59	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012858	NA
+KCNK9	0	0	No evidence available	No evidence available	MONDO:0012856	NA
+STXBP1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012812	NA
+SLC2A1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012805	NA
+SLC16A12	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0012786	NA
+RNF168	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012764	NA
+DNAH11	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012748	NA
+ALDOA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012747	NA
+RARS2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012683	NA
+SPRED1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012669	NA
+PIP5K1C	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012656	NA
+KIF1C	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012651	NA
+COG1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012637	NA
+COG8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012635	NA
+DARS2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012622	NA
+GRIK2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012614	NA
+MFRP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012605	NA
+RAX	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012604	NA
+RDX	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012602	NA
+TCF4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012589	NA
+MFSD8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012588	NA
+P3H1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012581	NA
+CSF2RA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012580	NA
+GLI2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012563	NA
+ERCC1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012554	NA
+CDKN1B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012552	NA
+FGF3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012541	NA
+CFL2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012538	NA
+CRTAP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012536	NA
+TUFM	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012534	NA
+ERCC3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012531	NA
+RPS24	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012529	NA
+PRCD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012523	NA
+EFTUD2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012516	NA
+SAMD9	0	Not yet evaluated	No evidence available	Not yet evaluated	MONDO:0012502	NA
+KANSL1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012496	NA
+CABP4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012490	NA
+KCNV2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012475	NA
+RNASEH2A	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012472	NA
+CLCF1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012467	NA
+NOTCH2	0	0	No evidence available	No evidence available	MONDO:0012439	NA
+GLIS3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012436	NA
+TGFBR2	0	0	No evidence available	No evidence available	MONDO:0012427	NA
+MARVELD2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012420	NA
+OTX2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012413	NA
+FYCO1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012395	NA
+GLUL	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012393	NA
+ACADSB	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012392	NA
+TRIOBP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012355	NA
+LFNG	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012349	NA
+TGM5	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012345	NA
+LPIN2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012316	NA
+ALX4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012309	NA
+SNAP29	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012290	NA
+KIFBP	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012280	NA
+DDHD1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012256	NA
+SMARCB1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012252	NA
+FGD4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012250	NA
+MLPH	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012220	NA
+PLOD2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012217	NA
+SLC38A8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012216	NA
+GFM1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012191	NA
+CDK4	0	0	No evidence available	No evidence available	MONDO:0012183	NA
+ESPN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012170	NA
+CD8A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012161	NA
+PCYT1A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012160	NA
+GALNT12	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0012132	NA
+DPM1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012123	NA
+PDP1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012120	NA
+COG7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012118	NA
+DNAH5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012085	NA
+AXIN2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0012075	NA
+AGPAT2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012071	NA
+ALG1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012052	NA
+MUTYH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0012041	NA
+CD36	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012031	NA
+CENPJ	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012029	NA
+HGF	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0012003	NA
+ARFGEF2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011966	NA
+BMPER	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011946	NA
+ACP5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011939	NA
+GATA4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011938	NA
+BMP4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011936	NA
+DSG4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011932	NA
+HSD3B7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011906	NA
+IRAK4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011888	NA
+RAB27A	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011872	NA
+COQ2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011829	NA
+CLCNKB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011822	NA
+SALL4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011812	NA
+SPG7	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011803	NA
+TDP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011801	NA
+SMARCE1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011789	NA
+ALG12	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011783	NA
+MYO3A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011774	NA
+B4GALT1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011772	NA
+WHRN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011767	NA
+OTOA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011762	NA
+NPHP4	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011756	NA
+USH1G	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011748	NA
+SLC5A1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011731	NA
+RBBP8	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011715	NA
+ATP13A2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011706	NA
+LIG4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011686	NA
+IL2RA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011664	NA
+PARK7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011658	NA
+SHANK3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011652	NA
+FAM161A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011630	NA
+PCCA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011628	NA
+PINK1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011613	NA
+GCSH	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011612	NA
+GLDC	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011612	NA
+SLC25A13	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011601	NA
+TNNT1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011539	NA
+CHSY1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011533	NA
+AICDA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011528	NA
+KMT2A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011518	NA
+CYLD	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011512	NA
+ASXL1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011510	NA
+H6PD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011503	NA
+COL11A1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0011493	NA
+CDK5RAP2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011488	NA
+CYP4F22	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011485	NA
+PAX9	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011477	NA
+SBF2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011475	NA
+LCA5	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011473	NA
+TMEM43	0	0	No evidence available	No evidence available	MONDO:0011459	NA
+IGHMBP2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011436	NA
+WDR62	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011435	NA
+CP	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011426	NA
+ATPAF2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011421	NA
+TFR2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011417	NA
+SPATA7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011415	NA
+GPSM2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011411	NA
+USB1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011405	NA
+CTDP1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011402	NA
+HBA1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011399	NA
+HBA2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011399	NA
+PCSK9	40	0	Dosage sensitivity unlikely	No evidence available	MONDO:0011369	NA
+KAT6B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011365	NA
+STRC	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011364	NA
+TECTA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011351	NA
+RAG2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011338	NA
+STX11	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011336	NA
+FANCF	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011325	NA
+ALG6	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011291	NA
+TYMP	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011283	NA
+COLQ	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011281	NA
+EYS	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011272	NA
+ATP6V0A4	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011268	NA
+CHKB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011246	NA
+BSND	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011242	NA
+FOXC1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011233	NA
+POU4F3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011226	NA
+DCLRE1C	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011225	NA
+ST14	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011218	NA
+HJV	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011216	NA
+PCDH15	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011186	NA
+POMP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011169	NA
+GIPC3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011160	NA
+FASLG	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011158	NA
+ABCB11	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0011156	NA
+LRP5	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0011151	NA
+SH3TC2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011113	NA
+ASPH	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011106	NA
+NDRG1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011085	NA
+MTMR2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011066	NA
+SMARCA2	0	0	No evidence available	No evidence available	MONDO:0011053	NA
+EYA4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0011031	NA
+ATCAY	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0011025	NA
+TMPRSS3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010987	NA
+OTOF	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010986	NA
+ATP2A1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010977	NA
+SCARF2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010959	NA
+FANCE	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010953	NA
+ABCB4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010939	NA
+ERF	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010929	NA
+LGI1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010898	NA
+HNF1A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010894	NA
+HDAC4	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010886	NA
+ACVRL1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010880	NA
+MYO15A	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010860	NA
+ARL6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010832	NA
+CLN8	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010830	NA
+RAB3GAP1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010822	NA
+PRKN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010820	NA
+GATA6	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010802	NA
+ZC4H2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010758	NA
+TRAPPC2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010737	NA
+RS1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010725	NA
+RP2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010723	NA
+OTC	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010703	NA
+OFD1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010702	NA
+FRMD7	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010693	NA
+NDP	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010691	NA
+NYX	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010690	NA
+MTM1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010683	NA
+DMD	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010679	NA
+IDS	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010674	NA
+SMS	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010664	NA
+AFF2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010659	NA
+PQBP1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010653	NA
+ATP7A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010651	NA
+CHRDL1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010649	NA
+OCRL	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010645	NA
+ANOS1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010635	NA
+IKBKG	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010631	NA
+CD40LG	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010626	NA
+STS	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010622	NA
+NSDHL	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010621	NA
+PHEX	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010619	NA
+GK	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010613	NA
+L1CAM	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010611	NA
+ZIC3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010607	NA
+F9	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010604	NA
+F8	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010602	NA
+CYBB	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010600	NA
+PORCN	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010592	NA
+FGD1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010589	NA
+EDA	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010585	NA
+AVPR2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010581	NA
+TIMM8A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010578	NA
+AP1S2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010574	NA
+EFNB1	3	1	Sufficient evidence for dosage pathogenicity	Little evidence for dosage pathogenicity	MONDO:0010570	NA
+RPS6KA3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010561	NA
+TBX22	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010560	NA
+CHM	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010557	NA
+NHS	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010545	NA
+PHF6	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010537	NA
+GLA	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010526	NA
+COL4A5	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010520	NA
+ATRX	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010519	NA
+DDX3X	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010497	NA
+NEXMIF	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010483	NA
+SLC35A2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010478	NA
+WDR45	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010476	NA
+HDAC8	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010471	NA
+KDM6A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010465	NA
+UBE2A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010461	NA
+MAGT1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010455	NA
+AGTR2	0	0	No evidence available	No evidence available	MONDO:0010454	NA
+GDI1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010451	NA
+PTCHD1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010440	NA
+ZNF711	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010430	NA
+SYP	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010429	NA
+ZDHHC9	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010427	NA
+BTK	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010421	NA
+CCNQ	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010408	NA
+GRIA3	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010402	NA
+UPF3B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010398	NA
+CDKL5	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010396	NA
+PGK1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010392	NA
+XIAP	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010385	NA
+FMR1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010383	NA
+MAOA	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010379	NA
+AIFM1	0	0	No evidence available	No evidence available	MONDO:0010378	NA
+SMC1A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010370	NA
+SLC16A2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010354	NA
+FANCB	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010351	NA
+OPHN1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010337	NA
+BCAP31	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010334	NA
+ACSL4	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010313	NA
+CUL4B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010306	NA
+SLC6A8	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010305	NA
+HPRT1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010298	NA
+RAB39B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010289	NA
+PHF8	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010286	NA
+LAMP2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010281	NA
+SLC9A6	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010278	NA
+ARX	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010268	NA
+NR0B1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010264	NA
+BCOR	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010261	NA
+IL1RAPL1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010256	NA
+DCX	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010239	NA
+FLNA	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010233	NA
+CLCN5	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010225	NA
+MID1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010222	NA
+ERCC5	30	40	Gene associated with autosomal recessive phenotype	Dosage sensitivity unlikely	MONDO:0010216	NA
+POLH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010214	NA
+DDB2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010213	NA
+ERCC2	30	40	Gene associated with autosomal recessive phenotype	Dosage sensitivity unlikely	MONDO:0010212	NA
+XPC	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010211	NA
+XPA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010210	NA
+XDH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010209	NA
+LPAR6	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010206	NA
+ATP7B	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010200	NA
+WRN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010196	NA
+EDNRB	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010192	NA
+MMADHC	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010185	NA
+MMACHC	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010184	NA
+USH1C	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010171	NA
+CLRN1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010170	NA
+USH2A	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010169	NA
+FAH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010161	NA
+TCN2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010149	NA
+IYD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010136	NA
+TPO	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010133	NA
+DPYD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010130	NA
+ADAMTS13	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010122	NA
+SUMF1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010088	NA
+ALDH5A1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010083	NA
+ASPA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010079	NA
+B3GALT6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010075	NA
+ZFYVE26	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010044	NA
+SACS	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010041	NA
+IGF1R	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0010038	NA
+DHCR7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010035	NA
+ALDH3A2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010031	NA
+SOST	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010016	NA
+PXDN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010015	NA
+SLC35D1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0010013	NA
+EMX2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0010011	NA
+HEXB	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0010006	NA
+EIF4A3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009998	NA
+AGT	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009970	NA
+DIS3L2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0009965	NA
+IFT140	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009964	NA
+PHYH	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009958	NA
+SLC35C1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009953	NA
+PC	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009949	NA
+FOXF1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0009934	NA
+SLC34A2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009928	NA
+COLEC11	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009927	NA
+SRD5A2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009923	NA
+HSD17B3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009916	NA
+SLC12A3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009904	NA
+DHODH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009903	NA
+UROS	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009902	NA
+RIPK4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009901	NA
+NEK1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009894	NA
+LHX4	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0009880	NA
+PROP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009878	NA
+BCS1L	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009872	NA
+PHKB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009868	NA
+PTS	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009863	NA
+QDPR	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009862	NA
+PAH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009861	NA
+AMH	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009857	NA
+DCXR	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009846	NA
+AIMP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009843	NA
+EFL1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009833	NA
+SBDS	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009833	NA
+FBXO7	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009830	NA
+GRHPR	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009824	NA
+AGXT	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009823	NA
+FAM20C	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009821	NA
+OSTM1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009817	NA
+TCIRG1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009815	NA
+PPIB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009805	NA
+OAT	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009796	NA
+GPC6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009779	NA
+BUB1B	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009759	NA
+GRM6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009758	NA
+NPC1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009757	NA
+GAN	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009749	NA
+CCT5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009748	NA
+PPT1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009744	NA
+SPINK5	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009735	NA
+ABCC8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009734	NA
+NPHS1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009732	NA
+COX10	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009723	NA
+FARS2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009723	NA
+FOXRED1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009723	NA
+NDUFA10	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009723	NA
+NDUFAF2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009723	NA
+NDUFS7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009723	NA
+NDUFS8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009723	NA
+SURF1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009723	NA
+HSPG2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009717	NA
+BIN1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009709	NA
+CPT1A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009705	NA
+CSTB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009698	NA
+EPM2A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009697	NA
+DOK7	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009690	NA
+CHAT	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009689	NA
+TRIM32	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009683	NA
+SGCG	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009677	NA
+CAPN3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009675	NA
+HLCS	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009666	NA
+BTD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009665	NA
+TRIM37	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009664	NA
+GUSB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009662	NA
+GALNS	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009659	NA
+GNS	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009658	NA
+HGSNAT	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009657	NA
+SGSH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009655	NA
+MOCS2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009644	NA
+DGUOK	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009636	NA
+MYO5B	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009635	NA
+CANT1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009629	NA
+TUBGCP6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009624	NA
+NBN	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009623	NA
+MCPH1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009617	NA
+MCEE	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009615	NA
+MMAB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009614	NA
+MMAA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009613	NA
+MMUT	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009612	NA
+MTR	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009609	NA
+CYB5A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009605	NA
+RMRP	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009595	NA
+GPX4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009593	NA
+ARSA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009591	NA
+SPG21	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009568	NA
+SIL1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009567	NA
+BCKDHB	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009563	NA
+DBT	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009563	NA
+MAN2B1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009561	NA
+MLYCD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009556	NA
+SLURP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009552	NA
+SUCLG1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009504	NA
+PDHX	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009503	NA
+GALC	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009499	NA
+MGP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009495	NA
+OXCT1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009492	NA
+UBE3B	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009485	NA
+DNAI1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009484	NA
+UBR1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009479	NA
+DOCK8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009478	NA
+TTC7A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009465	NA
+TGM1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009441	NA
+FOXE1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009437	NA
+DMP1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009430	NA
+TBCE	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009426	NA
+KCNJ1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009424	NA
+GYS2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009414	NA
+ALDH4A1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009401	NA
+PRODH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009400	NA
+TNFRSF11B	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009394	NA
+CPS1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009376	NA
+HPSE2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009368	NA
+HYLS1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009365	NA
+MTRR	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009354	NA
+MTHFR	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009353	NA
+CBS	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009352	NA
+ZEB2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0009341	NA
+CCBE1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009337	NA
+NCF2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009310	NA
+NCF1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009309	NA
+HSD17B4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009300	NA
+GBE1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009292	NA
+GAA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009290	NA
+ETFB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009282	NA
+ETFDH	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009282	NA
+GCDH	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009281	NA
+GP1BB	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009276	NA
+GORAB	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009271	NA
+ADAMTSL2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009269	NA
+GALT	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009258	NA
+GALK1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009255	NA
+FBP1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009251	NA
+FTCD	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009240	NA
+FSHB	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009239	NA
+ANTXR2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009229	NA
+ASAH1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009218	NA
+FANCA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009215	NA
+FANCD2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009214	NA
+FANCC	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009213	NA
+F10	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009212	NA
+F7	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009211	NA
+F5	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009210	NA
+LMAN1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009206	NA
+TWIST2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009203	NA
+EIF2AK3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009192	NA
+ROGDI	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009185	NA
+TMC6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009176	NA
+TMC8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009176	NA
+FLVCR2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009168	NA
+EVC2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009162	NA
+ADAMTS2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009161	NA
+CDAN1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009135	NA
+SEC23B	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009134	NA
+DBH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009123	NA
+LCT	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009115	NA
+SI	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009114	NA
+GNPAT	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009112	NA
+DPYS	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009111	NA
+SLC7A7	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009109	NA
+LRP2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009104	NA
+LHX3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009091	NA
+DLX5	0	0	No evidence available	No evidence available	MONDO:0009080	NA
+DLX6	0	0	No evidence available	No evidence available	MONDO:0009080	NA
+SEM1	0	0	No evidence available	No evidence available	MONDO:0009080	NA
+LRPPRC	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009069	NA
+SLC3A1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009067	NA
+SLC7A9	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009067	NA
+CFTR	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009061	NA
+CTH	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009058	NA
+CHST6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009020	NA
+KERA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009014	NA
+WDPCP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0009008	NA
+CNNM4	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0009007	NA
+VPS13B	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008999	NA
+LBR	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008974	NA
+CHD7	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008965	NA
+LYST	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008963	NA
+MYO5A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008962	NA
+CYP27A1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008948	NA
+INPP5E	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008944	NA
+CPN1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008910	NA
+PMM2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008907	NA
+BLM	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008876	NA
+CYP4V2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008865	NA
+ABCG8	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008863	NA
+MCCC1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008861	NA
+ATM	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008840	NA
+PRG4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008828	NA
+CCN6	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008827	NA
+SLC2A10	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008818	NA
+ASL	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008815	NA
+ARG1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008814	NA
+APOC2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008810	NA
+SMOC1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008800	NA
+SOX2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008799	NA
+RSPO4	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008798	NA
+TMPRSS6	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008788	NA
+TACSTD2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008777	NA
+CLN3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008767	NA
+ALMS1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008763	NA
+COL4A3	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008762	NA
+HPS1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008748	NA
+TYRP1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008747	NA
+OCA2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008746	NA
+CYP21A2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008728	NA
+POR	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008726	NA
+ACADM	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008721	NA
+KIF7	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008708	NA
+LMBR1	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008700	NA
+VPS13A	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008695	NA
+MTTP	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0008692	NA
+LETM1	0	0	No evidence available	No evidence available	MONDO:0008684	NA
+WT1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008679	NA
+MITF	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008671	NA
+PAX3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008670	NA
+VHL	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008667	NA
+TBX1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0008644	NA
+TRPS1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008596	NA
+GFI1B	0	0	No evidence available	No evidence available	MONDO:0008553	NA
+ENG	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008535	NA
+NOG	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008519	NA
+HOXD13	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008513	NA
+ELN	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008504	NA
+SPAST	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008438	NA
+RAI1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008434	NA
+TBX3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008411	NA
+KCNQ1OT1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0008394	NA
+CREBBP	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008393	NA
+RB1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008380	NA
+NR3C2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008329	NA
+MNX1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008305	NA
+HMBS	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008294	NA
+GLI3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008287	NA
+STK11	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008280	NA
+SMAD4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008278	NA
+PRKCSH	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008265	NA
+PKD1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008263	NA
+KIT	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008244	NA
+PEPD	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0008221	NA
+TFAP2B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008209	NA
+MSX2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0008197	NA
+SPINK1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008185	NA
+LEMD3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008157	NA
+COL1A1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008146	NA
+MYCN	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008115	NA
+LMX1B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008061	NA
+SGCE	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0008044	NA
+SIX3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007999	NA
+CDKN2A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007964	NA
+FBN1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007947	NA
+TCOF1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007944	NA
+SF3B4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007943	NA
+FOXC2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007922	NA
+KIF11	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007918	NA
+FH	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007888	NA
+FGF10	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007872	NA
+AAGAB	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007858	NA
+ANKRD11	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007846	NA
+FGFR1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007844	NA
+KMT2D	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007843	NA
+TBX4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007841	NA
+GATA3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007797	NA
+CDC73	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007768	NA
+LDLR	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007750	NA
+CA12	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0007747	NA
+TGIF1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007734	NA
+SHH	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007733	NA
+TBX5	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007732	NA
+RET	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007723	NA
+GLMN	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007672	NA
+HNF1B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007669	NA
+IMMP2L	40	0	Dosage sensitivity unlikely	No evidence available	MONDO:0007661	NA
+CDH1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007648	NA
+ARID1B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007617	NA
+FZD4	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007589	NA
+EXT2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007586	NA
+EXT1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007585	NA
+TGFBR1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007566	NA
+MEN1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007540	NA
+CDKN1C	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007534	NA
+GCH1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007495	NA
+SMOC2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0007436	NA
+PTH1R	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007434	NA
+NIPBL	3	1	Sufficient evidence for dosage pathogenicity	Little evidence for dosage pathogenicity	MONDO:0007387	NA
+KCNQ2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007365	NA
+YAP1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0007355	NA
+PAX2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007352	NA
+IRF6	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007333	NA
+ITGB2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0007293	NA
+SOX9	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007251	NA
+EYA1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007236	NA
+GDF5	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007221	NA
+MTAP	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0007205	NA
+FOXL2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007201	NA
+PTCH1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007187	NA
+CACNA1A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007163	NA
+COL2A1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007160	NA
+MSX1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007129	NA
+UBE3A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007113	NA
+RPS19	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007110	NA
+TTR	0	0	No evidence available	No evidence available	MONDO:0007100	NA
+ADSL	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0007068	NA
+TWIST1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007042	NA
+NF2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0007039	NA
+HFE	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0006507	NA
+MLH1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005835	NA
+MSH2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005835	NA
+MSH6	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005835	NA
+ZFPM2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0005711	NA
+IRF2BPL	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0005559	NA
+PRKD1	0	Not yet evaluated	No evidence available	Not yet evaluated	MONDO:0005453	NA
+VEGFA	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0005453	NA
+DEPDC5	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005384	NA
+NPRL3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005384	NA
+TMEM216	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0005308	NA
+TBX20	2	0	Some evidence for dosage pathogenicity	No evidence available	MONDO:0005267	NA
+DSCAM	2	0	Some evidence for dosage pathogenicity	No evidence available	MONDO:0005258	NA
+PHF3	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0005258	NA
+RIMS1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0005258	NA
+TMLHE	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0005258	NA
+UBN2	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0005258	NA
+SETD1A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005090	NA
+TAF13	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0005090	NA
+PIGA	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0005047	NA
+MYBPC3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005045	NA
+MYL3	0	0	No evidence available	No evidence available	MONDO:0005045	NA
+TNNI3	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0005045	NA
+BAG3	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005021	NA
+DSP	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005021	NA
+FLNC	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005021	NA
+LMNA	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005021	NA
+TTN	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0005021	NA
+KCNH2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0002442	NA
+KCNQ1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0002442	NA
+SLC37A4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0002413	NA
+DMRT1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0002145	NA
+TSC1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0001734	NA
+TSC2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0001734	NA
+IDUA	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0001586	NA
+AKT3	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0001149	NA
+CELF4	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0001071	NA
+KDM5B	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0001071	NA
+SET	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0001071	NA
+TUSC3	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0001071	NA
+CLCNKA	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0000909	NA
+TUBB2B	0	0	No evidence available	No evidence available	MONDO:0000904	NA
+PLN	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0000591	NA
+RAG1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	MONDO:0000572	NA
+ACTB	0	0	No evidence available	No evidence available	MONDO:0000508	NA
+ANKRD17	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+BPTF	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+CDK13	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+CSNK2A1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+CTCF	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+KDM6B	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+KMT2C	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+MED13L	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+MEIS2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+NAA15	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+NSD2	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+PPM1D	0	0	No evidence available	No evidence available	MONDO:0000508	NA
+PUF60	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+QRICH1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+TAOK1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	MONDO:0000508	NA
+TRMT10A	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0000208	NA
+SLC25A19	30	0	Gene associated with autosomal recessive phenotype	No evidence available	MONDO:0000152	NA
+NAF1	1	0	Little evidence for dosage pathogenicity	No evidence available	MONDO:0000148	NA
+CITED2	0	0	No evidence available	No evidence available	MONDO:0000119	NA
+A4GALT	30	0	Gene associated with autosomal recessive phenotype	No evidence available	NA	NA
+AARS1	0	0	No evidence available	No evidence available	NA	NA
+ABR	0	0	No evidence available	No evidence available	NA	NA
+ABRAXAS1	0	0	No evidence available	No evidence available	NA	NA
+ACD	0	0	No evidence available	No evidence available	NA	NA
+AGAP2	0	0	No evidence available	No evidence available	NA	NA
+AGO4	0	0	No evidence available	No evidence available	NA	NA
+AKT1	0	0	No evidence available	No evidence available	NA	NA
+AKT2	0	0	No evidence available	No evidence available	NA	NA
+ALK	0	0	No evidence available	No evidence available	NA	NA
+ANKH	0	0	No evidence available	No evidence available	NA	NA
+ARHGAP11B	0	0	No evidence available	No evidence available	NA	NA
+ARHGAP31	0	0	No evidence available	No evidence available	NA	NA
+ARHGEF4	0	0	No evidence available	No evidence available	NA	NA
+ARHGEF6	0	0	No evidence available	No evidence available	NA	NA
+ARSD	0	0	No evidence available	No evidence available	NA	NA
+ASXL2	0	0	No evidence available	No evidence available	NA	NA
+ATP10A	0	0	No evidence available	No evidence available	NA	NA
+ATP2C2	0	0	No evidence available	No evidence available	NA	NA
+ATP6AP2	0	0	No evidence available	No evidence available	NA	NA
+ATP6V1E1	0	0	No evidence available	No evidence available	NA	NA
+BCL2L11	0	0	No evidence available	No evidence available	NA	NA
+BCLAF1	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+BCR	0	0	No evidence available	No evidence available	NA	NA
+BPHL	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+BPY2	0	0	No evidence available	No evidence available	NA	NA
+CACNA1C	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+CADPS2	0	0	No evidence available	No evidence available	NA	NA
+CALM1	0	0	No evidence available	No evidence available	NA	NA
+CALM3	0	0	No evidence available	No evidence available	NA	NA
+CARD14	0	0	No evidence available	No evidence available	NA	NA
+CASP10	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+CASZ1	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+CATSPER2	30	0	Gene associated with autosomal recessive phenotype	No evidence available	NA	NA
+CBFB	0	0	No evidence available	No evidence available	NA	NA
+CBY2	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+CDY1	0	0	No evidence available	No evidence available	NA	NA
+CENPP	0	0	No evidence available	No evidence available	NA	NA
+CERT1	0	0	No evidence available	No evidence available	NA	NA
+CFC1	0	0	No evidence available	No evidence available	NA	NA
+CHD1L	0	0	No evidence available	No evidence available	NA	NA
+CHEK1	0	0	No evidence available	No evidence available	NA	NA
+CHL1	0	0	No evidence available	No evidence available	NA	NA
+CHMP7	0	0	No evidence available	No evidence available	NA	NA
+CHRM3	0	0	No evidence available	No evidence available	NA	NA
+CHRNA7	0	0	No evidence available	No evidence available	NA	NA
+CLASP1	0	0	No evidence available	No evidence available	NA	NA
+CLNK	0	0	No evidence available	No evidence available	NA	NA
+CNOT3	0	0	No evidence available	No evidence available	NA	NA
+CNTN6	0	0	No evidence available	No evidence available	NA	NA
+CNTNAP2	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+CNTNAP5	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+COL16A1	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+COL1A2	0	0	No evidence available	No evidence available	NA	NA
+COL6A5	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+COL7A1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	NA	NA
+COL9A2	0	0	No evidence available	No evidence available	NA	NA
+CPA4	0	0	No evidence available	No evidence available	NA	NA
+CPA6	0	0	No evidence available	No evidence available	NA	NA
+CRHR1	0	0	No evidence available	No evidence available	NA	NA
+CRKL	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+CRYBA1	0	0	No evidence available	No evidence available	NA	NA
+CRYBB2	0	0	No evidence available	No evidence available	NA	NA
+CRYGC	0	0	No evidence available	No evidence available	NA	NA
+CTSB	0	0	No evidence available	No evidence available	NA	NA
+CYP3A43	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+DAZ1	0	0	No evidence available	No evidence available	NA	NA
+DCHS1	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+DHX57	0	0	No evidence available	No evidence available	NA	NA
+DIRAS3	0	0	No evidence available	No evidence available	NA	NA
+DISC1	0	0	No evidence available	No evidence available	NA	NA
+DISP1	0	0	No evidence available	No evidence available	NA	NA
+DLGAP2	0	0	No evidence available	No evidence available	NA	NA
+DLK1	0	0	No evidence available	No evidence available	NA	NA
+DLX1	0	0	No evidence available	No evidence available	NA	NA
+DLX2	0	0	No evidence available	No evidence available	NA	NA
+DMRT2	0	0	No evidence available	No evidence available	NA	NA
+DMXL2	0	0	No evidence available	No evidence available	NA	NA
+DNAJB6	0	0	No evidence available	No evidence available	NA	NA
+DNAJC28	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+DNASE1	0	0	No evidence available	No evidence available	NA	NA
+DRD5	0	0	No evidence available	No evidence available	NA	NA
+DSPP	0	0	No evidence available	No evidence available	NA	NA
+EFCAB13	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+EGFR	0	0	No evidence available	No evidence available	NA	NA
+EGR2	0	0	No evidence available	No evidence available	NA	NA
+ELK1	0	0	No evidence available	No evidence available	NA	NA
+ELOA3	0	0	No evidence available	No evidence available	NA	NA
+EN2	0	0	No evidence available	No evidence available	NA	NA
+ERCC4	30	0	Gene associated with autosomal recessive phenotype	No evidence available	NA	NA
+EVX2	0	0	No evidence available	No evidence available	NA	NA
+EXO5	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+FANCL	30	0	Gene associated with autosomal recessive phenotype	No evidence available	NA	NA
+FANCM	30	0	Gene associated with autosomal recessive phenotype	No evidence available	NA	NA
+FBN2	0	0	No evidence available	No evidence available	NA	NA
+FBXW11	0	1	No evidence available	Little evidence for dosage pathogenicity	NA	NA
+FGFR3	0	0	No evidence available	No evidence available	NA	NA
+FGFRL1	0	0	No evidence available	No evidence available	NA	NA
+FHIT	0	0	No evidence available	No evidence available	NA	NA
+FLNB	0	0	No evidence available	No evidence available	NA	NA
+FMO2	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+FOXE3	0	0	No evidence available	No evidence available	NA	NA
+FTL	0	0	No evidence available	No evidence available	NA	NA
+GAB4	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+GABRB3	0	0	No evidence available	No evidence available	NA	NA
+GABRG2	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+GALR1	0	0	No evidence available	No evidence available	NA	NA
+GATA1	0	0	No evidence available	No evidence available	NA	NA
+GDF2	0	0	No evidence available	No evidence available	NA	NA
+GEN1	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+GFI1	0	0	No evidence available	No evidence available	NA	NA
+GJA1	0	0	No evidence available	No evidence available	NA	NA
+GJA5	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+GJA8	0	0	No evidence available	No evidence available	NA	NA
+GJB2	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+GJB6	0	0	No evidence available	No evidence available	NA	NA
+GNAI3	0	0	No evidence available	No evidence available	NA	NA
+GOLGA2P2Y	0	0	No evidence available	No evidence available	NA	NA
+GPC5	0	0	No evidence available	No evidence available	NA	NA
+GPR148	0	0	No evidence available	No evidence available	NA	NA
+GRB10	0	0	No evidence available	No evidence available	NA	NA
+GREM1	0	0	No evidence available	No evidence available	NA	NA
+GRID1	0	0	No evidence available	No evidence available	NA	NA
+GRIN3B	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+GSDMD	0	0	No evidence available	No evidence available	NA	NA
+GTF2I	0	0	No evidence available	No evidence available	NA	NA
+GTF2IRD1	0	0	No evidence available	No evidence available	NA	NA
+GTF2IRD2	0	0	No evidence available	No evidence available	NA	NA
+GUCA1C	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+GUCY2C	0	0	No evidence available	No evidence available	NA	NA
+H19	0	0	No evidence available	No evidence available	NA	NA
+HIRA	0	0	No evidence available	No evidence available	NA	NA
+HOXD9	0	0	No evidence available	No evidence available	NA	NA
+HRAS	0	0	No evidence available	No evidence available	NA	NA
+HSD17B10	0	0	No evidence available	No evidence available	NA	NA
+HSD17B13	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+HTN3	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+HYMAI	0	0	No evidence available	No evidence available	NA	NA
+IGF2	0	0	No evidence available	No evidence available	NA	NA
+IGF2R	0	0	No evidence available	No evidence available	NA	NA
+IMPA1	0	0	No evidence available	No evidence available	NA	NA
+INS	0	0	No evidence available	No evidence available	NA	NA
+ITGB3	0	0	No evidence available	No evidence available	NA	NA
+KANK1	0	0	No evidence available	No evidence available	NA	NA
+KCNJ6	0	0	No evidence available	No evidence available	NA	NA
+KIF1A	0	0	No evidence available	No evidence available	NA	NA
+KLF14	0	0	No evidence available	No evidence available	NA	NA
+KLF8	0	0	No evidence available	No evidence available	NA	NA
+KLK12	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+KRT24	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+KRT37	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+L3MBTL1	0	0	No evidence available	No evidence available	NA	NA
+LIMK1	0	0	No evidence available	No evidence available	NA	NA
+LITAF	0	0	No evidence available	No evidence available	NA	NA
+LMTK3	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+LSS	0	0	No evidence available	No evidence available	NA	NA
+MAD2L2	0	0	No evidence available	No evidence available	NA	NA
+MAFB	0	0	No evidence available	No evidence available	NA	NA
+MAGEL2	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+MAP2K1	0	0	No evidence available	No evidence available	NA	NA
+MAP3K1	0	0	No evidence available	No evidence available	NA	NA
+MAPT	0	0	No evidence available	No evidence available	NA	NA
+MATN3	0	0	No evidence available	No evidence available	NA	NA
+MED12	0	0	No evidence available	No evidence available	NA	NA
+MEFV	0	0	No evidence available	No evidence available	NA	NA
+MEST	0	0	No evidence available	No evidence available	NA	NA
+MET	0	0	No evidence available	No evidence available	NA	NA
+MFHAS1	0	0	No evidence available	No evidence available	NA	NA
+MFN2	0	0	No evidence available	No evidence available	NA	NA
+MID2	0	0	No evidence available	No evidence available	NA	NA
+MOV10	0	0	No evidence available	No evidence available	NA	NA
+MRE11	30	0	Gene associated with autosomal recessive phenotype	No evidence available	NA	NA
+MYH7	0	0	No evidence available	No evidence available	NA	NA
+NAALADL2	0	0	No evidence available	No evidence available	NA	NA
+NDN	0	0	No evidence available	No evidence available	NA	NA
+NDUFA1	0	0	No evidence available	No evidence available	NA	NA
+NEBL	0	0	No evidence available	No evidence available	NA	NA
+NEFL	0	0	No evidence available	No evidence available	NA	NA
+NELFA	0	0	No evidence available	No evidence available	NA	NA
+NIPA1	0	0	No evidence available	No evidence available	NA	NA
+NIPA2	0	0	No evidence available	No evidence available	NA	NA
+NLGN1	0	0	No evidence available	No evidence available	NA	NA
+NLGN3	0	0	No evidence available	No evidence available	NA	NA
+NNAT	0	0	No evidence available	No evidence available	NA	NA
+NODAL	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+NOP10	0	0	No evidence available	No evidence available	NA	NA
+NPTX2	0	0	No evidence available	No evidence available	NA	NA
+NR2F2	0	0	No evidence available	No evidence available	NA	NA
+NRG3	0	0	No evidence available	No evidence available	NA	NA
+NTAN1	0	0	No evidence available	No evidence available	NA	NA
+NUDT13	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+NXF5	0	0	No evidence available	No evidence available	NA	NA
+OR5AU1	0	0	No evidence available	No evidence available	NA	NA
+OSBPL5	0	0	No evidence available	No evidence available	NA	NA
+OTUD7A	0	0	No evidence available	No evidence available	NA	NA
+PACS1	0	0	No evidence available	No evidence available	NA	NA
+PAK2	1	1	Little evidence for dosage pathogenicity	Little evidence for dosage pathogenicity	NA	NA
+PALLD	0	Not yet evaluated	No evidence available	Not yet evaluated	NA	NA
+PBX1	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	NA	NA
+PCDH19	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	NA	NA
+PCDH9	0	0	No evidence available	No evidence available	NA	NA
+PCDHGA8	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+PDE4D	0	0	No evidence available	No evidence available	NA	NA
+PDGFRA	0	0	No evidence available	No evidence available	NA	NA
+PEG10	0	0	No evidence available	No evidence available	NA	NA
+PEG3	0	0	No evidence available	No evidence available	NA	NA
+PHF2	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+PHLDA2	0	0	No evidence available	No evidence available	NA	NA
+PIK3CA	0	0	No evidence available	No evidence available	NA	NA
+PIK3R2	0	0	No evidence available	No evidence available	NA	NA
+PITPNA	0	0	No evidence available	No evidence available	NA	NA
+PITX3	0	0	No evidence available	No evidence available	NA	NA
+PLAGL1	0	0	No evidence available	No evidence available	NA	NA
+POLD1	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+POLE	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+PPP1CB	0	0	No evidence available	No evidence available	NA	NA
+PPP1R9A	0	0	No evidence available	No evidence available	NA	NA
+PPP2R1A	0	0	No evidence available	No evidence available	NA	NA
+PRDM6	0	0	No evidence available	No evidence available	NA	NA
+PRF1	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	NA	NA
+PRKAR1A	3	0	Sufficient evidence for dosage pathogenicity	No evidence available	NA	NA
+PSD3	0	0	No evidence available	No evidence available	NA	NA
+PSORS1C2	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+RABL2A	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+RAD50	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+RAF1	0	0	No evidence available	No evidence available	NA	NA
+RB1CC1	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+RCAN1	0	0	No evidence available	No evidence available	NA	NA
+RECQL	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	NA	NA
+RHBDF2	0	0	No evidence available	No evidence available	NA	NA
+RINT1	0	0	No evidence available	No evidence available	NA	NA
+RNF135	0	0	No evidence available	No evidence available	NA	NA
+RNF32	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+ROBO1	0	0	No evidence available	No evidence available	NA	NA
+ROR2	0	0	No evidence available	No evidence available	NA	NA
+RPH3A	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+RPL15	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+RPS20	0	0	No evidence available	No evidence available	NA	NA
+RXFP2	0	0	No evidence available	No evidence available	NA	NA
+RYR1	0	0	No evidence available	No evidence available	NA	NA
+SCARB2	0	0	No evidence available	No evidence available	NA	NA
+SCN1B	0	0	No evidence available	No evidence available	NA	NA
+SDR42E1	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+SEC14L4	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+SEMA3A	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+SH2B1	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+SHOC2	0	0	No evidence available	No evidence available	NA	NA
+SHROOM4	0	0	No evidence available	No evidence available	NA	NA
+SIGLEC5	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+SIM1	0	0	No evidence available	No evidence available	NA	NA
+SIX1	0	0	No evidence available	No evidence available	NA	NA
+SIX4	0	0	No evidence available	No evidence available	NA	NA
+SIX6	0	0	No evidence available	No evidence available	NA	NA
+SKI	0	0	No evidence available	No evidence available	NA	NA
+SLC22A14	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+SLC22A18	0	0	No evidence available	No evidence available	NA	NA
+SLC25A12	0	0	No evidence available	No evidence available	NA	NA
+SLC38A5	0	0	No evidence available	No evidence available	NA	NA
+SLC6A18	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+SLC6A4	0	0	No evidence available	No evidence available	NA	NA
+SMAD2	0	0	No evidence available	No evidence available	NA	NA
+SNORD107	0	0	No evidence available	No evidence available	NA	NA
+SNORD108	0	0	No evidence available	No evidence available	NA	NA
+SNORD109B	0	0	No evidence available	No evidence available	NA	NA
+SNORD64	0	0	No evidence available	No evidence available	NA	NA
+SNORD8	0	0	No evidence available	No evidence available	NA	NA
+SNORD9	0	0	No evidence available	No evidence available	NA	NA
+SNRPN	0	0	No evidence available	No evidence available	NA	NA
+SNURF	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+SOS1	0	0	No evidence available	No evidence available	NA	NA
+SOX8	0	0	No evidence available	No evidence available	NA	NA
+SPP2	0	0	No evidence available	No evidence available	NA	NA
+SRCAP	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+SRPX2	0	0	No evidence available	No evidence available	NA	NA
+STARD9	0	0	No evidence available	No evidence available	NA	NA
+STAT1	0	0	No evidence available	No evidence available	NA	NA
+STXBP2	30	Not yet evaluated	Gene associated with autosomal recessive phenotype	Not yet evaluated	NA	NA
+SUPT16H	0	0	No evidence available	No evidence available	NA	NA
+SUZ12	0	0	No evidence available	No evidence available	NA	NA
+TARDBP	0	0	No evidence available	No evidence available	NA	NA
+TBC1D5	0	0	No evidence available	No evidence available	NA	NA
+TBX2	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+TDGF1	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+TERT	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
+TEX26	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+THRA	0	0	No evidence available	No evidence available	NA	NA
+TIGD6	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+TLX3	0	0	No evidence available	No evidence available	NA	NA
+TMEM135	0	0	No evidence available	No evidence available	NA	NA
+TMEM178A	0	0	No evidence available	No evidence available	NA	NA
+TNNT2	0	0	No evidence available	No evidence available	NA	NA
+TNPO3	0	0	No evidence available	No evidence available	NA	NA
+TOP3B	0	0	No evidence available	No evidence available	NA	NA
+TP73	0	0	No evidence available	No evidence available	NA	NA
+TPM1	0	0	No evidence available	No evidence available	NA	NA
+TPSD1	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+TRAPPC10	0	0	No evidence available	No evidence available	NA	NA
+TUBA1A	0	0	No evidence available	No evidence available	NA	NA
+TUBB3	0	0	No evidence available	No evidence available	NA	NA
+TUBB4A	0	0	No evidence available	No evidence available	NA	NA
+UNC80	30	0	Gene associated with autosomal recessive phenotype	No evidence available	NA	NA
+UNC93A	40	0	Dosage sensitivity unlikely	No evidence available	NA	NA
+UPF2	0	0	No evidence available	No evidence available	NA	NA
+VAMP7	0	0	No evidence available	No evidence available	NA	NA
+VCX3A	0	40	No evidence available	Dosage sensitivity unlikely	NA	NA
+VPS26C	0	0	No evidence available	No evidence available	NA	NA
+WFS1	0	0	No evidence available	No evidence available	NA	NA
+ZDHHC15	0	0	No evidence available	No evidence available	NA	NA
+ZIC1	0	0	No evidence available	No evidence available	NA	NA
+ZIC4	0	0	No evidence available	No evidence available	NA	NA
+ZIM2	0	0	No evidence available	No evidence available	NA	NA
+ZNF264	0	0	No evidence available	No evidence available	NA	NA
+ZNF407	0	0	No evidence available	No evidence available	NA	NA
+ZNF592	0	0	No evidence available	No evidence available	NA	NA
+ZNF674	0	0	No evidence available	No evidence available	NA	NA
+ZNF81	0	0	No evidence available	No evidence available	NA	NA
+ZWILCH	1	0	Little evidence for dosage pathogenicity	No evidence available	NA	NA
