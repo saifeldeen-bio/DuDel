@@ -36,16 +36,14 @@ DuDel/
 │
 ├── RFmodel/                     # Pre-trained Random Forest model
 ├── datasets/                    # Annotation datasets (ClinGen, gene/protein scores, etc.)
-├── example_inputs/              # Example BAM/GFF/gene list files
-├── example_outputs/             # Example outputs (CNV calls, reports)
-│
+├── panels/                      # Example disease-specific panels
 ├── 1-generate-exon-level-bed-file.sh
 ├── 2-exon-level-counts.sh
 ├── 3-Count-Matrix.R
 ├── dudel.py
 ├── dudel_RF.py
 ├── README.md
-└── environment.yml
+└── dudel_env.yml
 ```
 
 ---
@@ -55,7 +53,7 @@ DuDel/
 Create and activate the conda environment:
 
 ```bash
-conda env create -f environment.yml
+conda env create -f dudel_env.yml
 conda activate dudel_env
 ```
 
@@ -67,6 +65,11 @@ Download the GFF annotation file
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_genomic.gff.gz
 ```
 
+Download the Model file
+
+```bash
+wget https://zenodo.org/records/20407396/files/dudel_brf.joblib -P RFmodel/
+```
 
 ---
 
@@ -77,7 +80,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.40_G
 | **GFF File**    | Reference genome annotation file containing exon features | `GRCh38.gff3`                |
 | **Gene List**   | Plain text file with one gene symbol per line             | `genes_list.txt`             |
 | **BAM Files**   | Aligned sequencing reads for reference and test samples   | `sample1.bam`, `sample2.bam` |
-| **Model File**  | Pre-trained Random Forest model (`.pkl`)                  | `RFmodel/DuDel_RF_model.pkl` |
+| **Model File**  | Pre-trained Random Forest model (`.joblib`)                  | `RFmodel/DuDel_brf.joblib` |
 | **Annotations** | Optional datasets (ClinGen, gene/protein scores)          | `datasets/`                  |
 
 ---
