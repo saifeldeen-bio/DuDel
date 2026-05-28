@@ -1,6 +1,6 @@
 # DuDel: Exon-Level CNV Detection from Whole Exome Sequencing Data
 
-**DuDel v1.0** is a machine learning–based exon-specific CNV (Copy Number Variation) caller that uses Random Forest classification to identify deletions and duplications from WES-derived exon-level read counts.
+**DuDel v1.0.0** is a machine learning–based exon-specific CNV (Copy Number Variation) caller that uses Balanced Random Forest classification to identify deletions and duplications from WES-derived exon-level read counts.
 Developed by the *Clinical Omics & Informatics Unit (COIN), Neuroscience Institute, University of Cape Town, South Africa.*
 
 ---
