@@ -68,7 +68,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.40_G
 Download the Model file
 
 ```bash
-wget https://zenodo.org/records/20407396/files/dudel_brf.joblib -P RFmodel/
+wget https://zenodo.org/records/20431569/files/dudel_brf.joblib -P RFmodel/
 ```
 
 ---
