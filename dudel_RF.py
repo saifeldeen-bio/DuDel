@@ -191,14 +191,5 @@ save_shaded_plot(l_train, l_test, l_sizes, "Learning Curve", "Number of Training
                  "/cbio/projects/003/saifeldeen/samples/newTrial/models/FinlaFinal/learning_curve_final.png",
                  "navy", "darkorange")
 
-
-plt.title("Precision-Recall Curve (DEL & DUP)")
-plt.tight_layout()
-plt.savefig("/cbio/projects/003/saifeldeen/samples/newTrial/models/FinlaFinal/pr_curve_final.png", dpi=300)
-plt.close()
-
-plt.savefig("/cbio/projects/003/saifeldeen/samples/newTrial/models/FinlaFinal/roc_curve_final.png", dpi=300)
-plt.close()
-
 joblib.dump(fold_pipeline, "/cbio/projects/003/saifeldeen/samples/newTrial/models/FinlaFinal/nmdscan_fold_production_model_lzma_32.joblib", compress=("lzma", 9))
 joblib.dump(final_pipeline, "/cbio/projects/003/saifeldeen/samples/newTrial/models/FinlaFinal/nmdscan_final_production_model_lzma_32.joblib", compress=("lzma", 9))
